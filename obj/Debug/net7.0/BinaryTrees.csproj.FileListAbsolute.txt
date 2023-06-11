@@ -1,0 +1,15 @@
+/Users/artturobld/Documents/BinaryTrees/bin/Debug/net7.0/BinaryTrees
+/Users/artturobld/Documents/BinaryTrees/bin/Debug/net7.0/BinaryTrees.deps.json
+/Users/artturobld/Documents/BinaryTrees/bin/Debug/net7.0/BinaryTrees.runtimeconfig.json
+/Users/artturobld/Documents/BinaryTrees/bin/Debug/net7.0/BinaryTrees.dll
+/Users/artturobld/Documents/BinaryTrees/bin/Debug/net7.0/BinaryTrees.pdb
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.csproj.AssemblyReference.cache
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.AssemblyInfoInputs.cache
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.AssemblyInfo.cs
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.csproj.CoreCompileInputs.cache
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.dll
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/refint/BinaryTrees.dll
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.pdb
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/BinaryTrees.genruntimeconfig.cache
+/Users/artturobld/Documents/BinaryTrees/obj/Debug/net7.0/ref/BinaryTrees.dll
