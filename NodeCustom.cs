@@ -110,4 +110,19 @@ public class BinaryTreeExcercises
 
         return results;
     }
+
+    public int getBinaryTreeHeight(NodeT root){
+        if (root == null) {
+            return -1;
+        }
+
+        int lefth = getBinaryTreeHeight(root.left);
+        int righth = getBinaryTreeHeight(root.right);
+
+        if (lefth > righth) {
+            return lefth + 1;
+        } else {
+            return righth + 1;
+        }
+    }
 }
